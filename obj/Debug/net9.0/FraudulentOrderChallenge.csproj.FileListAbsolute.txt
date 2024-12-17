@@ -1,0 +1,14 @@
+D:\Users\saswavlo\Desktop\CsharpProjects\FraudulentOrderChallenge\bin\Debug\net9.0\FraudulentOrderChallenge.exe
+D:\Users\saswavlo\Desktop\CsharpProjects\FraudulentOrderChallenge\bin\Debug\net9.0\FraudulentOrderChallenge.deps.json
+D:\Users\saswavlo\Desktop\CsharpProjects\FraudulentOrderChallenge\bin\Debug\net9.0\FraudulentOrderChallenge.runtimeconfig.json
+D:\Users\saswavlo\Desktop\CsharpProjects\FraudulentOrderChallenge\bin\Debug\net9.0\FraudulentOrderChallenge.dll
+D:\Users\saswavlo\Desktop\CsharpProjects\FraudulentOrderChallenge\bin\Debug\net9.0\FraudulentOrderChallenge.pdb
+D:\Users\saswavlo\Desktop\CsharpProjects\FraudulentOrderChallenge\obj\Debug\net9.0\FraudulentOrderChallenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\saswavlo\Desktop\CsharpProjects\FraudulentOrderChallenge\obj\Debug\net9.0\FraudulentOrderChallenge.AssemblyInfoInputs.cache
+D:\Users\saswavlo\Desktop\CsharpProjects\FraudulentOrderChallenge\obj\Debug\net9.0\FraudulentOrderChallenge.AssemblyInfo.cs
+D:\Users\saswavlo\Desktop\CsharpProjects\FraudulentOrderChallenge\obj\Debug\net9.0\FraudulentOrderChallenge.csproj.CoreCompileInputs.cache
+D:\Users\saswavlo\Desktop\CsharpProjects\FraudulentOrderChallenge\obj\Debug\net9.0\FraudulentOrderChallenge.dll
+D:\Users\saswavlo\Desktop\CsharpProjects\FraudulentOrderChallenge\obj\Debug\net9.0\refint\FraudulentOrderChallenge.dll
+D:\Users\saswavlo\Desktop\CsharpProjects\FraudulentOrderChallenge\obj\Debug\net9.0\FraudulentOrderChallenge.pdb
+D:\Users\saswavlo\Desktop\CsharpProjects\FraudulentOrderChallenge\obj\Debug\net9.0\FraudulentOrderChallenge.genruntimeconfig.cache
+D:\Users\saswavlo\Desktop\CsharpProjects\FraudulentOrderChallenge\obj\Debug\net9.0\ref\FraudulentOrderChallenge.dll
